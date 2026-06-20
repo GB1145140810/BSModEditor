@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ModEditor</string>
+    <string name="import_file">导入文件</string>
+    <string name="open_folder">打开文件夹</string>
+    <string name="new_mod">新建模组</string>
+    <string name="settings">设置</string>
+    <string name="validate">验证</string>
+    <string name="export">导出</string>
+    <string name="preview">预览</string>
+    <string name="file_import">文件导入</string>
+    <string name="folder_access">文件夹访问</string>
+    <string name="mod_generator">模组生成</string>
+    <string name="select_file">选择文件</string>
+    <string name="import_from_url">从URL导入</string>
+    <string name="importing">正在导入...</string>
+    <string name="mod_editor">模组编辑器</string>
+    <string name="development_in_progress">开发中</string>
+</resources>
